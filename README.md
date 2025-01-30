@@ -1,6 +1,6 @@
 # VSCode
 
-[LIVE}(https://ashish-deshmukh007.github.io/VSCode/)
+[LIVE](https://ashish-deshmukh007.github.io/VSCode/)
 ## 📜 Overview
 
 This repository contains a clone of the GitHub landing page, developed using HTML, CSS, and JavaScript. The goal of this project was to recreate the visual and interactive aspects of the original page, focusing on responsive design, smooth animations, and clean code structure.
